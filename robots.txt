@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.xn--v2ray-h02iv96g.com/sitemap.xml
